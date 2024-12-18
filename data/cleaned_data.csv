@@ -20,6 +20,7 @@ Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Análises Cl
 Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,F,0.75,Parda,Concluído,2.0,Ciências da Saúde,16
 Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências da Saúde,41
 Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Preta,Evasão,1.0,Ciências da Saúde,30
+Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências da Saúde,38
 Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências da Saúde,26
 Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências da Saúde,19
 Câmpus Águas Lindas,2018,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Preta,Concludente,2.0,Ciências da Saúde,41
@@ -91,7 +92,6 @@ Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,
 Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,M,1.25,Parda,Formado,2.0,Ciências Biológicas,30
 Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,1.25,Branca,Formado,2.0,Ciências Biológicas,18
 Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,2.0,Parda,Formado,2.0,Ciências Biológicas,19
-Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Biológicas,56
 Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,0.75,Parda,Formado,2.0,Ciências Biológicas,20
 Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,0.75,Preta,Trancado,1.0,Ciências Biológicas,34
 Câmpus Águas Lindas,2019,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,0.75,Parda,Cancelado,1.0,Ciências Biológicas,21
@@ -186,7 +186,6 @@ Câmpus Águas Lindas,2019,1,Técnico Integrado ao Ensino Médio em Vigilância 
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Cancelado,1.0,Ciências da Saúde,44
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Concluído,2.0,Ciências da Saúde,28
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Preta,Trancado,1.0,Ciências da Saúde,18
-Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Amarela,Matriculado,3.0,Ciências da Saúde,32
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Preta,Concluído,2.0,Ciências da Saúde,40
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Concluído,2.0,Ciências da Saúde,22
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Parda,Evasão,1.0,Ciências da Saúde,18
@@ -194,7 +193,6 @@ Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem n
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Concluído,2.0,Ciências da Saúde,28
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Trancado,1.0,Ciências da Saúde,18
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Trancado,1.0,Ciências da Saúde,22
-Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências da Saúde,22
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Parda,Evasão,1.0,Ciências da Saúde,24
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Concluído,2.0,Ciências da Saúde,31
 Câmpus Águas Lindas,2019,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Trancado,1.0,Ciências da Saúde,26
@@ -356,13 +354,11 @@ Câmpus Águas Lindas,2021,1,Técnico Integrado ao Ensino Médio em Vigilância 
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Branca,Trancado,1.0,Ciências da Saúde,42
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Trancado,1.0,Ciências da Saúde,26
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências da Saúde,23
-Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências da Saúde,27
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Evasão,1.0,Ciências da Saúde,22
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Branca,Evasão,1.0,Ciências da Saúde,20
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Trancado,1.0,Ciências da Saúde,23
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Branca,Evasão,1.0,Ciências da Saúde,38
 Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências da Saúde,21
-Câmpus Águas Lindas,2021,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências da Saúde,28
 Câmpus Águas Lindas,2022,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,1.25,Desconhecida,Matriculado,3.0,Ciências Biológicas,22
 Câmpus Águas Lindas,2022,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Biológicas,19
 Câmpus Águas Lindas,2022,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,1.25,Preta,Matriculado,3.0,Ciências Biológicas,18
@@ -485,6 +481,7 @@ Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,
 Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,2.0,Parda,Matriculado,3.0,Ciências Biológicas,41
 Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,M,0.75,Preta,Matriculado,3.0,Ciências Biológicas,43
 Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Biológicas,44
+Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Biológicas,52
 Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,1.25,Indígena,Matriculado,3.0,Ciências Biológicas,36
 Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Biológicas,23
 Câmpus Águas Lindas,2024,1,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Biológicas,26
@@ -506,6 +503,7 @@ Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Cl
 Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências da Saúde,18
 Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências da Saúde,16
 Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências da Saúde,16
+Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências da Saúde,15
 Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências da Saúde,15
 Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências da Saúde,16
 Câmpus Águas Lindas,2024,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências da Saúde,16
@@ -859,6 +857,7 @@ Câmpus Anápolis,2018,0,Bacharelado em Ciência da Computação,Bacharelado,Pre
 Câmpus Anápolis,2018,0,Licenciatura em Ciências Sociais,Licenciatura,Presencial,M,2.0,Amarela,Evasão,1.0,Ciências Humanas,37
 Câmpus Anápolis,2018,0,Mestrado Profissional em Educação Profissional e Tecnológica,Mestrado Profissional,Presencial,M,2.0,Parda,Concluído,2.0,Ciências Humanas,44
 Câmpus Anápolis,2018,0,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,2.0,Branca,Formado,2.0,Ciências Sociais Aplicadas,29
+Câmpus Anápolis,2018,0,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,21
 Câmpus Anápolis,2018,0,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,26
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,39
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,18
@@ -877,7 +876,6 @@ Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Pre
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,17
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,19
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.0,Branca,Cancelado,1.0,Ciências Exatas e da Terra,22
-Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,57
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,20
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,21
 Câmpus Anápolis,2019,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.0,Desconhecida,Evasão,1.0,Ciências Exatas e da Terra,20
@@ -1001,7 +999,6 @@ Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presenc
 Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,2.0,Branca,Formado,2.0,Ciências Sociais Aplicadas,21
 Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Parda,Formado,2.0,Ciências Sociais Aplicadas,27
 Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,F,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,24
-Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,61
 Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Desconhecida,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,25
 Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Parda,Trancado,1.0,Ciências Sociais Aplicadas,19
 Câmpus Anápolis,2019,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,31
@@ -1123,7 +1120,6 @@ Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Ca
 Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Concluído,2.0,Ciências Sociais Aplicadas,38
 Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,25
 Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,25
-Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,47
 Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,49
 Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,21
 Câmpus Anápolis,2019,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,29
@@ -1310,7 +1306,6 @@ Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Química,Integra
 Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Parda,Concluído,2.0,Ciências Exatas e da Terra,16
 Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Humanas,28
 Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,24
-Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Humanas,60
 Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Humanas,35
 Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Branca,Evasão,1.0,Ciências Humanas,55
 Câmpus Anápolis,2020,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Humanas,32
@@ -1507,6 +1502,7 @@ Câmpus Anápolis,2021,1,Técnico Integrado ao Ensino Médio em Secretaria Escol
 Câmpus Anápolis,2021,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,19
 Câmpus Anápolis,2021,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,49
 Câmpus Anápolis,2021,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,37
+Câmpus Anápolis,2021,0,Bacharelado em Engenharia Civil da Mobilidade,Bacharelado,Presencial,F,2.0,Parda,Matriculado,3.0,Engenharias,28
 Câmpus Anápolis,2021,0,Licenciatura em Ciências Sociais,Licenciatura,Presencial,F,2.0,Desconhecida,Evasão,1.0,Ciências Humanas,46
 Câmpus Anápolis,2022,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,18
 Câmpus Anápolis,2022,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,22
@@ -1576,12 +1572,13 @@ Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Secretaria Escol
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Desconhecida,Cancelamento Compulsório,1.0,Ciências Humanas,41
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Humanas,24
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,45
+Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Secretaria Escolar na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Humanas,53
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,40
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Amarela,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,34
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,24
 Câmpus Anápolis,2022,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,38
 Câmpus Anápolis,2022,0,Bacharelado em Ciência da Computação,Bacharelado,Presencial,F,0.75,Parda,Cancelado,1.0,Ciências Exatas e da Terra,36
-Câmpus Anápolis,2022,0,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,19
+Câmpus Anápolis,2022,0,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Exatas e da Terra,20
 Câmpus Anápolis,2022,0,Especialização em Inteligência Artificial Aplicada,Especialização,Presencial,M,1.25,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,24
 Câmpus Anápolis,2022,0,Licenciatura em Ciências Sociais,Licenciatura,Presencial,M,0.75,Branca,Cancelado,1.0,Ciências Humanas,34
 Câmpus Anápolis,2023,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,F,0.75,Branca,Trancado,1.0,Ciências Exatas e da Terra,24
@@ -1681,6 +1678,7 @@ Câmpus Anápolis,2023,1,Técnico Integrado ao Ensino Médio em Transporte de Ca
 Câmpus Anápolis,2023,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,36
 Câmpus Anápolis,2023,1,Técnico Integrado ao Ensino Médio em Transporte de Cargas na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,27
 Câmpus Anápolis,2024,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.0,Branca,Cancelado,1.0,Ciências Exatas e da Terra,27
+Câmpus Anápolis,2024,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,2.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,30
 Câmpus Anápolis,2024,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,38
 Câmpus Anápolis,2024,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,32
 Câmpus Anápolis,2024,1,Bacharelado em Ciência da Computação,Bacharelado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,37
@@ -1741,6 +1739,7 @@ Câmpus Anápolis,2024,1,Licenciatura em Química,Licenciatura,Presencial,M,0.75
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,F,0.75,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,41
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Branca,Cancelado,1.0,Ciências Sociais Aplicadas,42
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,20
+Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,48
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,1.25,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,43
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,2.0,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,23
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,23
@@ -1757,9 +1756,11 @@ Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presenc
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,19
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,2.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,18
 Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,18
+Câmpus Anápolis,2024,1,Superior de Tecnologia em Logística,Tecnólogo,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,52
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,F,2.0,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,F,2.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,18
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,16
+Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,F,2.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,15
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,F,0.75,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Comércio Exterior,Integrado,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,15
@@ -1778,10 +1779,12 @@ Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,In
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,Integrado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,Integrado,Presencial,F,2.0,Preta,Matriculado,3.0,Engenharias,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,Integrado,Presencial,F,0.75,Branca,Matriculado,3.0,Engenharias,16
+Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Engenharias,15
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,Integrado,Presencial,M,2.0,Branca,Matriculado,3.0,Engenharias,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Edificações,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,15
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
+Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,M,2.75,Preta,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Anápolis,2024,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
@@ -1897,7 +1900,6 @@ Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Prese
 Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,1.25,Branca,Evasão,1.0,"Lingüística, Letras e Artes",34
 Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,M,1.25,Parda,Evasão,1.0,"Lingüística, Letras e Artes",29
 Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,M,1.25,Parda,Formado,2.0,"Lingüística, Letras e Artes",26
-Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,1.25,Parda,Cancelamento Compulsório,1.0,"Lingüística, Letras e Artes",60
 Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,0.75,Branca,Formado,2.0,"Lingüística, Letras e Artes",46
 Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,"Lingüística, Letras e Artes",18
 Câmpus Cidade de Goiás,2018,1,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,2.0,Parda,Formado,2.0,"Lingüística, Letras e Artes",19
@@ -1929,7 +1931,6 @@ Câmpus Cidade de Goiás,2018,1,Técnico Integrado ao Ensino Médio em Produçã
 Câmpus Cidade de Goiás,2018,1,Técnico Integrado ao Ensino Médio em Produção de Áudio e Vídeo,Integrado,Presencial,M,1.25,Parda,Concluído,2.0,"Lingüística, Letras e Artes",15
 Câmpus Cidade de Goiás,2018,1,Técnico Integrado ao Ensino Médio em Produção de Áudio e Vídeo,Integrado,Presencial,M,1.25,Preta,Evasão,1.0,"Lingüística, Letras e Artes",19
 Câmpus Cidade de Goiás,2018,1,Técnico Integrado ao Ensino Médio em Produção de Áudio e Vídeo,Integrado,Presencial,M,0.75,Parda,Concluído,2.0,"Lingüística, Letras e Artes",15
-Câmpus Cidade de Goiás,2018,0,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,2.0,Branca,Evasão,1.0,"Lingüística, Letras e Artes",49
 Câmpus Cidade de Goiás,2018,0,Licenciatura em Artes Visuais,Licenciatura,Presencial,F,0.75,Branca,Evasão,1.0,"Lingüística, Letras e Artes",26
 Câmpus Cidade de Goiás,2018,0,Técnico Integrado ao Ensino Médio em Artesanato na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Desconhecida,Concludente,2.0,"Lingüística, Letras e Artes",22
 Câmpus Cidade de Goiás,2019,1,Bacharelado em Agronomia,Bacharelado,Presencial,M,0.75,Preta,Evasão,1.0,Ciências Agrárias,21
@@ -2240,7 +2241,6 @@ Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Edificações na M
 Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Edificações na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Concluído,2.0,Engenharias,31
 Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Edificações na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Engenharias,41
 Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Edificações na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,33
-Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,59
 Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,40
 Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,23
 Câmpus Formosa,2019,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Preta,Evasão,1.0,Ciências Exatas e da Terra,44
@@ -2438,9 +2438,9 @@ Câmpus Formosa,2022,1,Superior de Tecnologia em Análise e Desenvolvimento de S
 Câmpus Formosa,2022,1,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas,Tecnólogo,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,18
 Câmpus Formosa,2022,1,Técnico Integrado ao Ensino Médio em Saneamento,Integrado,Presencial,M,1.25,Branca,Cancelado,1.0,Engenharias,15
 Câmpus Formosa,2022,0,Especialização em Tecnologia e Educação no Cerrado,Especialização,Presencial,F,1.25,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,33
-Câmpus Formosa,2022,0,Especialização em Tecnologia e Educação no Cerrado,Especialização,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Humanas,25
 Câmpus Formosa,2022,0,Especialização em Tecnologia e Educação no Cerrado,Especialização,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Humanas,26
 Câmpus Formosa,2022,0,Especialização em Tecnologia e Educação no Cerrado,Especialização,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,32
+Câmpus Formosa,2022,0,Especialização em Tecnologia e Educação no Cerrado,Especialização,Presencial,F,2.0,Branca,Matriculado,3.0,Ciências Humanas,24
 Câmpus Formosa,2022,0,Especialização em Tecnologia e Educação no Cerrado,Especialização,Presencial,F,1.25,Preta,Cancelamento Compulsório,1.0,Ciências Humanas,42
 Câmpus Formosa,2022,0,Licenciatura em Ciências Biológicas,Licenciatura,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Biológicas,33
 Câmpus Formosa,2022,0,Licenciatura em Ciências Sociais,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Humanas,20
@@ -2589,7 +2589,6 @@ Câmpus Goiânia,2018,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presenci
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,29
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,2.0,Parda,Concludente,2.0,Ciências Sociais Aplicadas,27
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,0.75,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,28
-Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,2.75,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,38
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,2.0,Parda,Concludente,2.0,Ciências Sociais Aplicadas,26
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,M,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,29
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,M,2.0,Indígena,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,35
@@ -2599,15 +2598,14 @@ Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalida
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,38
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,M,1.25,Parda,Concluído,2.0,Ciências Sociais Aplicadas,28
 Câmpus Goiânia,2018,0,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,32
-Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,F,2.75,Branca,Concluído,2.0,Ciências Exatas e da Terra,24
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,24
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,M,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,45
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,25
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,M,1.25,Amarela,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,28
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,M,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,33
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,M,2.75,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,23
+Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,F,2.75,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,21
 Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,M,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,29
-Câmpus Goiânia,2018,0,Especialização em Matemática,Especialização,Presencial,F,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,38
 Câmpus Goiânia,2018,0,Licenciatura em História,Licenciatura,Presencial,M,0.75,Parda,Cancelado,1.0,Ciências Humanas,35
 Câmpus Goiânia,2018,0,Licenciatura em História,Licenciatura,Presencial,M,2.0,Branca,Cancelado,1.0,Ciências Humanas,27
 Câmpus Goiânia,2018,0,Licenciatura em História,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Humanas,36
@@ -2634,6 +2632,7 @@ Câmpus Goiânia,2018,0,Mestrado Profissional em Tecnologia de Processos Sustent
 Câmpus Goiânia,2018,0,Mestrado Profissional em Tecnologia de Processos Sustentáveis,Mestrado Profissional,Presencial,F,2.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,27
 Câmpus Goiânia,2018,0,Técnico Integrado ao Ensino Médio em Cozinha na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Agrárias,23
 Câmpus Goiânia,2018,0,Técnico Integrado ao Ensino Médio em Informática para Internet na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,39
+Câmpus Goiânia,2018,0,Técnico Subsequente ao Ensino Médio em Eletrotécnica,Subsequente,Presencial,M,2.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,21
 Câmpus Goiânia,2018,0,Técnico Subsequente ao Ensino Médio em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Concluído,2.0,Ciências Exatas e da Terra,19
 Câmpus Goiânia,2019,1,Bacharelado em Engenharia Ambiental e Sanitária,Bacharelado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,35
 Câmpus Goiânia,2019,1,Bacharelado em Engenharia Ambiental e Sanitária,Bacharelado,Presencial,F,2.0,Branca,Matriculado,3.0,Engenharias,26
@@ -2816,28 +2815,22 @@ Câmpus Goiânia,2019,0,Bacharelado em Engenharia de Controle e Automação,Bach
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Parda,Evasão,1.0,Engenharias,19
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,F,2.0,Branca,Cancelado,1.0,Engenharias,24
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,25
-Câmpus Goiânia,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Preta,Matriculado,3.0,Engenharias,23
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Formado,2.0,Engenharias,26
-Câmpus Goiânia,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,22
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,2.0,Branca,Cancelado,1.0,Engenharias,24
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,23
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,2.0,Amarela,Formado,2.0,Engenharias,23
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presencial,M,2.75,Branca,Evasão,1.0,Engenharias,23
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,18
 Câmpus Goiânia,2019,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presencial,M,0.75,Parda,Cancelado,1.0,Engenharias,18
-Câmpus Goiânia,2019,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,27
 Câmpus Goiânia,2019,0,Bacharelado em Química,Bacharelado,Presencial,M,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,30
 Câmpus Goiânia,2019,0,Bacharelado em Química,Bacharelado,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,33
 Câmpus Goiânia,2019,0,Bacharelado em Química,Bacharelado,Presencial,M,2.0,Branca,Formado,2.0,Ciências Exatas e da Terra,29
 Câmpus Goiânia,2019,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,F,1.25,Preta,Evasão,1.0,Ciências Exatas e da Terra,32
-Câmpus Goiânia,2019,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,21
-Câmpus Goiânia,2019,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,31
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,M,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,47
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,F,1.25,Parda,Concludente,2.0,Ciências Exatas e da Terra,25
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,F,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,43
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,M,2.75,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,26
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,F,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,36
-Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,F,2.75,Amarela,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,43
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,M,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,36
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,M,1.25,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,26
 Câmpus Goiânia,2019,0,Especialização em Matemática,Especialização,Presencial,F,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,30
@@ -2867,7 +2860,6 @@ Câmpus Goiânia,2019,0,Licenciatura em Letras - Língua Portuguesa,Licenciatura
 Câmpus Goiânia,2019,0,Licenciatura em Letras - Língua Portuguesa,Licenciatura,Presencial,M,1.25,Preta,Evasão,1.0,"Lingüística, Letras e Artes",33
 Câmpus Goiânia,2019,0,Licenciatura em Música,Licenciatura,Presencial,M,1.25,Preta,Cancelado,1.0,"Lingüística, Letras e Artes",19
 Câmpus Goiânia,2019,0,Licenciatura em Música,Licenciatura,Presencial,M,1.25,Branca,Evasão,1.0,"Lingüística, Letras e Artes",20
-Câmpus Goiânia,2019,0,Licenciatura em Música,Licenciatura,Presencial,M,2.75,Branca,Cancelamento Compulsório,1.0,"Lingüística, Letras e Artes",38
 Câmpus Goiânia,2019,0,Licenciatura em Música,Licenciatura,Presencial,M,0.75,Amarela,Evasão,1.0,"Lingüística, Letras e Artes",26
 Câmpus Goiânia,2019,0,Licenciatura em Música,Licenciatura,Presencial,F,0.75,Branca,Evasão,1.0,"Lingüística, Letras e Artes",29
 Câmpus Goiânia,2019,0,Técnico Integrado ao Ensino Médio em Cozinha na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Agrárias,24
@@ -2915,6 +2907,7 @@ Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Controle e Automação,Bach
 Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,F,1.25,Preta,Evasão,1.0,Engenharias,21
 Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Branca,Cancelado,1.0,Engenharias,20
 Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,25
+Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,F,2.75,Parda,Matriculado,3.0,Engenharias,32
 Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,2.75,Parda,Evasão,1.0,Engenharias,26
 Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,1.25,Parda,Evasão,1.0,Engenharias,30
 Câmpus Goiânia,2020,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,0.75,Branca,Cancelado,1.0,Engenharias,27
@@ -2958,13 +2951,11 @@ Câmpus Goiânia,2020,1,Especialização em Gestão dos Serviços de Hospitalida
 Câmpus Goiânia,2020,1,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,M,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,39
 Câmpus Goiânia,2020,1,Especialização em Gestão dos Serviços de Hospitalidade,Especialização,Presencial,F,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,33
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,0.75,Preta,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,41
-Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,2.75,Preta,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,48
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,24
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,M,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,30
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,25
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,22
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,2.75,Amarela,Concluído,2.0,Ciências Sociais Aplicadas,21
-Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,2.75,Preta,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,49
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,M,2.0,Preta,Concluído,2.0,Ciências Sociais Aplicadas,37
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,F,1.25,Parda,Concluído,2.0,Ciências Sociais Aplicadas,44
 Câmpus Goiânia,2020,1,Especialização em Políticas e Gestão da Educação Profissional e Tecnológica,Especialização,Presencial,M,0.75,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,38
@@ -3016,12 +3007,9 @@ Câmpus Goiânia,2020,0,Bacharelado em Engenharia de Controle e Automação,Bach
 Câmpus Goiânia,2020,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,21
 Câmpus Goiânia,2020,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Preta,Matriculado,3.0,Engenharias,25
 Câmpus Goiânia,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,1.25,Branca,Matriculado,3.0,Engenharias,20
-Câmpus Goiânia,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Parda,Formado,2.0,Engenharias,24
 Câmpus Goiânia,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Engenharias,24
 Câmpus Goiânia,2020,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,36
-Câmpus Goiânia,2020,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,19
 Câmpus Goiânia,2020,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,19
-Câmpus Goiânia,2020,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,F,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,22
 Câmpus Goiânia,2020,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Exatas e da Terra,23
 Câmpus Goiânia,2020,0,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,21
 Câmpus Goiânia,2020,0,Licenciatura em Física,Licenciatura,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,24
@@ -3036,6 +3024,7 @@ Câmpus Goiânia,2020,0,Licenciatura em Letras - Língua Portuguesa,Licenciatura
 Câmpus Goiânia,2020,0,Licenciatura em Letras - Língua Portuguesa,Licenciatura,Presencial,F,2.0,Branca,Evasão,1.0,"Lingüística, Letras e Artes",23
 Câmpus Goiânia,2020,0,Licenciatura em Letras - Língua Portuguesa,Licenciatura,Presencial,M,0.75,Branca,Cancelado,1.0,"Lingüística, Letras e Artes",38
 Câmpus Goiânia,2020,0,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,23
+Câmpus Goiânia,2020,0,Técnico Integrado ao Ensino Médio em Cozinha na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Cancelado,1.0,Ciências Agrárias,53
 Câmpus Goiânia,2020,0,Técnico Integrado ao Ensino Médio em Transporte Rodoviário na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Parda,Evasão,1.0,Engenharias,22
 Câmpus Goiânia,2020,0,Técnico Integrado ao Ensino Médio em Transporte Rodoviário na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Concludente,2.0,Engenharias,42
 Câmpus Goiânia,2020,0,Técnico Integrado ao Ensino Médio em Transporte Rodoviário na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Parda,Evasão,1.0,Engenharias,29
@@ -3138,9 +3127,9 @@ Câmpus Goiânia,2021,1,Técnico Subsequente ao Ensino Médio em Mecânica,Subse
 Câmpus Goiânia,2021,1,Técnico Subsequente ao Ensino Médio em Mecânica,Subsequente,Presencial,M,1.25,Parda,Evasão,1.0,Engenharias,21
 Câmpus Goiânia,2021,1,Técnico Subsequente ao Ensino Médio em Mecânica,Subsequente,Presencial,F,2.75,Parda,Evasão,1.0,Engenharias,46
 Câmpus Goiânia,2021,1,Técnico Subsequente ao Ensino Médio em Mineração,Subsequente,Presencial,M,0.75,Branca,Cancelado,1.0,Engenharias,39
+Câmpus Goiânia,2021,0,Bacharelado em Engenharia Cartográfica e de Agrimensura,Bacharelado,Presencial,F,2.0,Parda,Matriculado,3.0,Engenharias,32
 Câmpus Goiânia,2021,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,1.25,Branca,Aguardando Colação de Grau,2.0,Engenharias,22
 Câmpus Goiânia,2021,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,19
-Câmpus Goiânia,2021,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,0.75,Branca,Matriculado,3.0,Engenharias,19
 Câmpus Goiânia,2021,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,40
 Câmpus Goiânia,2021,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,F,2.0,Parda,Evasão,1.0,Engenharias,22
 Câmpus Goiânia,2021,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,21
@@ -3256,7 +3245,6 @@ Câmpus Goiânia,2022,0,Bacharelado em Engenharia Cartográfica e de Agrimensura
 Câmpus Goiânia,2022,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,0.75,Parda,Cancelado,1.0,Engenharias,43
 Câmpus Goiânia,2022,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,1.25,Preta,Evasão,1.0,Engenharias,27
 Câmpus Goiânia,2022,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,1.25,Desconhecida,Cancelado,1.0,Engenharias,27
-Câmpus Goiânia,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,22
 Câmpus Goiânia,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,21
 Câmpus Goiânia,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Cancelamento Compulsório,1.0,Engenharias,33
 Câmpus Goiânia,2022,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presencial,F,2.0,Preta,Evasão,1.0,Engenharias,23
@@ -3334,13 +3322,21 @@ Câmpus Goiânia,2023,1,Técnico Subsequente ao Ensino Médio em Eletrotécnica,
 Câmpus Goiânia,2023,1,Técnico Subsequente ao Ensino Médio em Mecânica,Subsequente,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,46
 Câmpus Goiânia,2023,1,Técnico Subsequente ao Ensino Médio em Mineração,Subsequente,Presencial,M,0.75,Parda,Trancado,1.0,Engenharias,46
 Câmpus Goiânia,2023,1,Técnico Subsequente ao Ensino Médio em Mineração,Subsequente,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,41
-Câmpus Goiânia,2023,0,Bacharelado em Engenharia Cartográfica e de Agrimensura,Bacharelado,Presencial,M,2.0,Parda,Evasão,1.0,Engenharias,37
+Câmpus Goiânia,2023,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,26
+Câmpus Goiânia,2023,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,28
+Câmpus Goiânia,2023,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,1.25,Desconhecida,Matriculado,3.0,Engenharias,26
 Câmpus Goiânia,2023,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,0.75,Parda,Cancelado,1.0,Engenharias,27
 Câmpus Goiânia,2023,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Branca,Cancelado,1.0,Engenharias,26
+Câmpus Goiânia,2023,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,1.25,Desconhecida,Matriculado,3.0,Engenharias,31
+Câmpus Goiânia,2023,0,Bacharelado em Engenharia Mecânica,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,27
 Câmpus Goiânia,2023,0,Bacharelado em Turismo,Bacharelado,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,34
+Câmpus Goiânia,2023,0,Especialização em Inteligência Artificial Aplicada,Especialização,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,31
 Câmpus Goiânia,2023,0,Especialização em Matemática,Especialização,Presencial,M,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,39
+Câmpus Goiânia,2023,0,Especialização em Matemática,Especialização,Presencial,M,2.0,Branca,Concludente,2.0,Ciências Exatas e da Terra,30
 Câmpus Goiânia,2023,0,Licenciatura em História,Licenciatura,Presencial,M,2.0,Parda,Evasão,1.0,Ciências Humanas,27
 Câmpus Goiânia,2023,0,Licenciatura em História,Licenciatura,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Humanas,29
+Câmpus Goiânia,2023,0,Licenciatura em Letras - Língua Portuguesa,Licenciatura,Presencial,M,1.25,Branca,Matriculado,3.0,"Lingüística, Letras e Artes",28
+Câmpus Goiânia,2023,0,Licenciatura em Música,Licenciatura,Presencial,M,1.25,Parda,Evasão,1.0,"Lingüística, Letras e Artes",41
 Câmpus Goiânia,2023,0,Técnico Subsequente ao Ensino Médio em Eletrotécnica,Subsequente,Presencial,M,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,34
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Ambiental e Sanitária,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Engenharias,27
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Ambiental e Sanitária,Bacharelado,Presencial,F,1.25,Branca,Matriculado,3.0,Engenharias,25
@@ -3348,6 +3344,7 @@ Câmpus Goiânia,2024,1,Bacharelado em Engenharia Ambiental e Sanitária,Bachare
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Ambiental e Sanitária,Bacharelado,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,33
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Cartográfica e de Agrimensura,Bacharelado,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,27
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Cartográfica e de Agrimensura,Bacharelado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,37
+Câmpus Goiânia,2024,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,2.75,Parda,Matriculado,3.0,Engenharias,30
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,2.0,Desconhecida,Matriculado,3.0,Engenharias,38
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,0.75,Parda,Matriculado,3.0,Engenharias,43
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,F,2.0,Branca,Matriculado,3.0,Engenharias,30
@@ -3357,6 +3354,7 @@ Câmpus Goiânia,2024,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Preta,Matriculado,3.0,Engenharias,30
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,F,2.0,Parda,Matriculado,3.0,Engenharias,29
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,F,0.75,Branca,Matriculado,3.0,Engenharias,36
+Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,49
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,30
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,19
 Câmpus Goiânia,2024,1,Bacharelado em Engenharia de Transportes,Bacharelado,Presencial,M,0.75,Preta,Matriculado,3.0,Engenharias,21
@@ -3378,6 +3376,7 @@ Câmpus Goiânia,2024,1,Bacharelado em Sistemas de Informação,Bacharelado,Pres
 Câmpus Goiânia,2024,1,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,21
 Câmpus Goiânia,2024,1,Bacharelado em Sistemas de Informação,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Exatas e da Terra,20
 Câmpus Goiânia,2024,1,Bacharelado em Turismo,Bacharelado,Presencial,F,2.0,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,46
+Câmpus Goiânia,2024,1,Especialização em Telecomunicações: Prédios Inteligentes,Especialização,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,49
 Câmpus Goiânia,2024,1,Especialização em Telecomunicações: Prédios Inteligentes,Especialização,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,34
 Câmpus Goiânia,2024,1,Especialização em Telecomunicações: Prédios Inteligentes,Especialização,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,39
 Câmpus Goiânia,2024,1,Especialização em Telecomunicações: Prédios Inteligentes,Especialização,Presencial,M,2.0,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,25
@@ -3405,7 +3404,6 @@ Câmpus Goiânia,2024,1,Técnico Subsequente ao Ensino Médio em Mineração,Sub
 Câmpus Goiânia,2024,1,Técnico Subsequente ao Ensino Médio em Mineração,Subsequente,Presencial,F,2.0,Parda,Matriculado,3.0,Engenharias,35
 Câmpus Goiânia,2024,1,Técnico Subsequente ao Ensino Médio em Mineração,Subsequente,Presencial,M,0.75,Preta,Matriculado,3.0,Engenharias,34
 Câmpus Goiânia Oeste,2018,1,Licenciatura em Pedagogia,Licenciatura,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,31
-Câmpus Goiânia Oeste,2018,1,Licenciatura em Pedagogia,Licenciatura,Presencial,F,2.0,Branca,Formado,2.0,Ciências Sociais Aplicadas,48
 Câmpus Goiânia Oeste,2018,1,Licenciatura em Pedagogia,Licenciatura,Presencial,F,2.0,Parda,Formado,2.0,Ciências Sociais Aplicadas,19
 Câmpus Goiânia Oeste,2018,1,Licenciatura em Pedagogia,Licenciatura,Presencial,M,2.0,Branca,Trancado,1.0,Ciências Sociais Aplicadas,42
 Câmpus Goiânia Oeste,2018,1,Licenciatura em Pedagogia,Licenciatura,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,28
@@ -3500,7 +3498,6 @@ Câmpus Goiânia Oeste,2018,0,Licenciatura em Pedagogia,Licenciatura,Presencial,
 Câmpus Goiânia Oeste,2018,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,18
 Câmpus Goiânia Oeste,2018,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,1.25,Branca,Formado,2.0,Ciências Sociais Aplicadas,30
 Câmpus Goiânia Oeste,2018,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,1.25,Branca,Formado,2.0,Ciências Sociais Aplicadas,31
-Câmpus Goiânia Oeste,2018,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,2.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,40
 Câmpus Goiânia Oeste,2018,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,24
 Câmpus Goiânia Oeste,2018,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências da Saúde,43
 Câmpus Goiânia Oeste,2018,0,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Concluído,2.0,Ciências da Saúde,27
@@ -3565,6 +3562,7 @@ Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Análises C
 Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Trancado,1.0,Ciências da Saúde,42
 Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Concluído,2.0,Ciências da Saúde,49
 Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências da Saúde,21
+Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Concluído,2.0,Ciências da Saúde,56
 Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Preta,Evasão,1.0,Ciências da Saúde,33
 Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Trancado,1.0,Ciências da Saúde,19
 Câmpus Goiânia Oeste,2019,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Concluído,2.0,Ciências da Saúde,38
@@ -3821,7 +3819,6 @@ Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,
 Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,M,0.75,Branca,Cancelado,1.0,Ciências Sociais Aplicadas,24
 Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,49
 Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,26
-Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,2.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,29
 Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,30
 Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,18
 Câmpus Goiânia Oeste,2021,0,Licenciatura em Pedagogia,Licenciatura,Presencial,F,0.75,Preta,Evasão,1.0,Ciências Sociais Aplicadas,22
@@ -3838,6 +3835,7 @@ Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Análises C
 Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,F,0.75,Parda,Trancado,1.0,Ciências da Saúde,19
 Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,F,1.25,Branca,Trancado,1.0,Ciências da Saúde,40
 Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Desconhecida,Evasão,1.0,Ciências da Saúde,43
+Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Evasão,1.0,Ciências da Saúde,54
 Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Trancado,1.0,Ciências da Saúde,37
 Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências da Saúde,24
 Câmpus Goiânia Oeste,2022,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências da Saúde,32
@@ -3850,6 +3848,7 @@ Câmpus Goiânia Oeste,2022,0,Licenciatura em Pedagogia,Licenciatura,Presencial,
 Câmpus Goiânia Oeste,2023,1,Licenciatura em Pedagogia,Licenciatura,Presencial,F,2.0,Parda,Cancelado,1.0,Ciências Sociais Aplicadas,19
 Câmpus Goiânia Oeste,2023,1,Licenciatura em Pedagogia,Licenciatura,Presencial,F,2.75,Branca,Cancelado,1.0,Ciências Sociais Aplicadas,19
 Câmpus Goiânia Oeste,2023,1,Técnico Integrado ao Ensino Médio em Análises Clínicas,Integrado,Presencial,F,1.25,Parda,Evasão,1.0,Ciências da Saúde,16
+Câmpus Goiânia Oeste,2023,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Preta,Evasão,1.0,Ciências da Saúde,53
 Câmpus Goiânia Oeste,2023,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências da Saúde,28
 Câmpus Goiânia Oeste,2023,1,Técnico Integrado ao Ensino Médio em Enfermagem na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Amarela,Evasão,1.0,Ciências da Saúde,44
 Câmpus Goiânia Oeste,2023,1,Técnico Integrado ao Ensino Médio em Nutrição e Dietética,Integrado,Presencial,F,0.75,Branca,Cancelado,1.0,Ciências da Saúde,16
@@ -4211,7 +4210,6 @@ Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na M
 Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Evasão,1.0,Ciências Biológicas,21
 Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Biológicas,20
 Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Concluído,2.0,Ciências Biológicas,20
-Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Biológicas,56
 Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Biológicas,20
 Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.0,Parda,Concluído,2.0,Ciências Biológicas,23
 Câmpus Inhumas,2019,1,Técnico Integrado ao Ensino Médio em Panificação na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Cancelamento Compulsório,1.0,Ciências Biológicas,42
@@ -4467,7 +4465,6 @@ Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Pro
 Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Parda,Concludente,2.0,Ciências Sociais Aplicadas,26
 Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,1.25,Preta,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,26
 Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Preta,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,23
-Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,2.75,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,28
 Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,22
 Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,25
 Câmpus Inhumas,2021,0,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,36
@@ -4713,6 +4710,7 @@ Câmpus Inhumas,2024,1,Bacharelado em Engenharia de Software,Bacharelado,Presenc
 Câmpus Inhumas,2024,1,Bacharelado em Engenharia de Software,Bacharelado,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,29
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,28
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,28
+Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,29
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,33
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,44
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,33
@@ -4723,12 +4721,15 @@ Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Pro
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,32
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,24
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,29
+Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,29
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,2.0,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,42
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,30
+Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,49
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,35
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,23
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,35
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,37
+Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,50
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,26
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,1.25,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,25
 Câmpus Inhumas,2024,1,Especialização em Docência na Educação Básica e Profissional,Especialização,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,29
@@ -4872,7 +4873,6 @@ Câmpus Itumbiara,2018,1,Técnico Integrado ao Ensino Médio em Química,Integra
 Câmpus Itumbiara,2018,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,1.25,Branca,Concluído,2.0,Ciências Exatas e da Terra,15
 Câmpus Itumbiara,2018,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,1.25,Parda,Concluído,2.0,Ciências Exatas e da Terra,15
 Câmpus Itumbiara,2018,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Branca,Concluído,2.0,Ciências Exatas e da Terra,15
-Câmpus Itumbiara,2018,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Parda,Evasão,1.0,Engenharias,40
 Câmpus Itumbiara,2018,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Preta,Evasão,1.0,Engenharias,20
 Câmpus Itumbiara,2018,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Evasão,1.0,Engenharias,23
 Câmpus Itumbiara,2018,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Branca,Evasão,1.0,Engenharias,22
@@ -4901,9 +4901,7 @@ Câmpus Itumbiara,2018,0,Técnico Integrado ao Ensino Médio em Agroindústria n
 Câmpus Itumbiara,2018,0,Técnico Integrado ao Ensino Médio em Agroindústria na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Branca,Cancelamento Compulsório,1.0,Engenharias,23
 Câmpus Itumbiara,2018,0,Técnico Integrado ao Ensino Médio em Agroindústria na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Engenharias,20
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,36
-Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,40
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,24
-Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.75,Branca,Concluído,2.0,Ciências Exatas e da Terra,24
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,22
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,23
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,0.75,Parda,Cancelado,1.0,Ciências Exatas e da Terra,23
@@ -4922,7 +4920,6 @@ Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Pres
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,25
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,19
 Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Branca,Concluído,2.0,Ciências Exatas e da Terra,22
-Câmpus Itumbiara,2018,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.75,Parda,Concluído,2.0,Ciências Exatas e da Terra,22
 Câmpus Itumbiara,2019,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Preta,Cancelado,1.0,Engenharias,27
 Câmpus Itumbiara,2019,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,18
 Câmpus Itumbiara,2019,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Preta,Evasão,1.0,Engenharias,31
@@ -4988,14 +4985,11 @@ Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presenc
 Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Evasão,1.0,Engenharias,19
 Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,2.0,Branca,Evasão,1.0,Engenharias,18
 Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,20
-Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Branca,Evasão,1.0,Engenharias,39
 Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Evasão,1.0,Engenharias,20
 Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Evasão,1.0,Engenharias,25
-Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,23
 Câmpus Itumbiara,2019,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Evasão,1.0,Engenharias,20
 Câmpus Itumbiara,2019,0,Licenciatura em Química,Licenciatura,Presencial,F,0.75,Branca,Formado,2.0,Ciências Exatas e da Terra,21
 Câmpus Itumbiara,2019,0,Licenciatura em Química,Licenciatura,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,23
-Câmpus Itumbiara,2019,0,Licenciatura em Química,Licenciatura,Presencial,M,1.25,Preta,Matriculado,3.0,Ciências Exatas e da Terra,22
 Câmpus Itumbiara,2019,0,Licenciatura em Química,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,25
 Câmpus Itumbiara,2019,0,Licenciatura em Química,Licenciatura,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,20
 Câmpus Itumbiara,2019,0,Licenciatura em Química,Licenciatura,Presencial,F,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,25
@@ -5101,16 +5095,17 @@ Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presenc
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Cancelamento Compulsório,1.0,Engenharias,29
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Cancelado,1.0,Engenharias,21
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Evasão,1.0,Engenharias,31
+Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Cancelado,1.0,Engenharias,52
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Trancado,1.0,Engenharias,25
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Cancelado,1.0,Engenharias,18
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,40
 Câmpus Itumbiara,2020,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Preta,Cancelado,1.0,Engenharias,21
+Câmpus Itumbiara,2020,0,Licenciatura em Química,Licenciatura,Presencial,F,2.75,Branca,Formado,2.0,Ciências Exatas e da Terra,37
 Câmpus Itumbiara,2020,0,Licenciatura em Química,Licenciatura,Presencial,M,0.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,23
 Câmpus Itumbiara,2020,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Parda,Cancelado,1.0,Ciências Exatas e da Terra,36
 Câmpus Itumbiara,2020,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.75,Preta,Evasão,1.0,Ciências Exatas e da Terra,24
 Câmpus Itumbiara,2020,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,32
 Câmpus Itumbiara,2020,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Estagiario (concludente),2.0,Ciências Exatas e da Terra,26
-Câmpus Itumbiara,2020,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Desconhecida,Matriculado,3.0,Ciências Exatas e da Terra,27
 Câmpus Itumbiara,2020,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,25
 Câmpus Itumbiara,2021,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.75,Parda,Evasão,1.0,Engenharias,30
 Câmpus Itumbiara,2021,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,0.75,Branca,Cancelado,1.0,Engenharias,18
@@ -5146,9 +5141,7 @@ Câmpus Itumbiara,2021,0,Bacharelado em Engenharia de Controle e Automação,Bac
 Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Engenharias,32
 Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Desconhecida,Evasão,1.0,Engenharias,25
 Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Desconhecida,Evasão,1.0,Engenharias,30
-Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,20
 Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Trancado,1.0,Engenharias,19
-Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,18
 Câmpus Itumbiara,2021,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Trancado,1.0,Engenharias,32
 Câmpus Itumbiara,2021,0,Licenciatura em Química,Licenciatura,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,18
 Câmpus Itumbiara,2021,0,Licenciatura em Química,Licenciatura,Presencial,F,1.25,Branca,Trancado,1.0,Ciências Exatas e da Terra,21
@@ -5157,7 +5150,6 @@ Câmpus Itumbiara,2021,0,Técnico Subsequente em Eletrotécnica,Subsequente,Pres
 Câmpus Itumbiara,2021,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,39
 Câmpus Itumbiara,2021,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,27
 Câmpus Itumbiara,2021,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Desconhecida,Evasão,1.0,Ciências Exatas e da Terra,32
-Câmpus Itumbiara,2021,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,21
 Câmpus Itumbiara,2021,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,0.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,27
 Câmpus Itumbiara,2022,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.0,Desconhecida,Cancelamento Compulsório,1.0,Engenharias,39
 Câmpus Itumbiara,2022,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,1.25,Preta,Trancado,1.0,Engenharias,22
@@ -5173,13 +5165,13 @@ Câmpus Itumbiara,2022,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presenc
 Câmpus Itumbiara,2022,1,Licenciatura em Química,Licenciatura,Presencial,F,0.75,Preta,Matriculado,3.0,Ciências Exatas e da Terra,26
 Câmpus Itumbiara,2022,1,Licenciatura em Química,Licenciatura,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,30
 Câmpus Itumbiara,2022,0,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,0.75,Branca,Trancado,1.0,Engenharias,24
+Câmpus Itumbiara,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Engenharias,26
 Câmpus Itumbiara,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Preta,Cancelamento Compulsório,1.0,Engenharias,19
-Câmpus Itumbiara,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,0.75,Branca,Matriculado,3.0,Engenharias,19
 Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Preta,Concludente,2.0,Ciências Exatas e da Terra,36
+Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,F,2.0,Desconhecida,Matriculado,3.0,Ciências Exatas e da Terra,26
+Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Exatas e da Terra,26
 Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Parda,Trancado,1.0,Ciências Exatas e da Terra,21
-Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,24
 Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,26
-Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,29
 Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,38
 Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Preta,Evasão,1.0,Ciências Exatas e da Terra,18
 Câmpus Itumbiara,2022,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Desconhecida,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,44
@@ -5252,6 +5244,9 @@ Câmpus Itumbiara,2023,1,Técnico Integrado ao Ensino Médio em Química,Integra
 Câmpus Itumbiara,2023,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Itumbiara,2023,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,16
 Câmpus Itumbiara,2023,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,15
+Câmpus Itumbiara,2023,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,29
+Câmpus Itumbiara,2023,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,29
+Câmpus Itumbiara,2023,0,Técnico Subsequente em Eletrotécnica,Subsequente,Presencial,M,1.25,Preta,Matriculado,3.0,Ciências Exatas e da Terra,27
 Câmpus Itumbiara,2024,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,F,2.0,Branca,Matriculado,3.0,Engenharias,19
 Câmpus Itumbiara,2024,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,0.75,Desconhecida,Matriculado,3.0,Engenharias,19
 Câmpus Itumbiara,2024,1,Bacharelado em Engenharia de Controle e Automação,Bacharelado,Presencial,M,2.75,Branca,Matriculado,3.0,Engenharias,19
@@ -5562,7 +5557,6 @@ Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Mod
 Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,45
 Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Preta,Concluído,2.0,Ciências Sociais Aplicadas,23
 Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Desconhecida,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,27
-Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,48
 Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,23
 Câmpus Jataí,2018,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,26
 Câmpus Jataí,2018,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,1.25,Preta,Evasão,1.0,Ciências Exatas e da Terra,26
@@ -5827,7 +5821,6 @@ Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matem
 Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,F,0.75,Parda,Concluído,2.0,Ciências Exatas e da Terra,33
 Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,F,1.25,Parda,Concluído,2.0,Ciências Exatas e da Terra,31
 Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,M,1.25,Preta,Cancelado,1.0,Ciências Exatas e da Terra,29
-Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,M,2.75,Branca,Concluído,2.0,Ciências Exatas e da Terra,23
 Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,23
 Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,M,1.25,Parda,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,23
 Câmpus Jataí,2019,0,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,M,1.25,Parda,Concluído,2.0,Ciências Exatas e da Terra,22
@@ -5898,6 +5891,7 @@ Câmpus Jataí,2020,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,0
 Câmpus Jataí,2020,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,20
 Câmpus Jataí,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Preta,Evasão,1.0,Engenharias,22
 Câmpus Jataí,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,0.75,Amarela,Formado,2.0,Engenharias,39
+Câmpus Jataí,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Desconhecida,Matriculado,3.0,Engenharias,31
 Câmpus Jataí,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Parda,Cancelado,1.0,Engenharias,18
 Câmpus Jataí,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,19
 Câmpus Jataí,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,19
@@ -6026,7 +6020,6 @@ Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subse
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,2.0,Parda,Concluído,2.0,Ciências Exatas e da Terra,27
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,2.0,Branca,Cancelado,1.0,Ciências Exatas e da Terra,26
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,19
-Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,69
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,0.75,Preta,Evasão,1.0,Ciências Exatas e da Terra,19
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,52
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,31
@@ -6041,7 +6034,6 @@ Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subse
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,52
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,23
 Câmpus Jataí,2020,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,0.75,Desconhecida,Evasão,1.0,Ciências Exatas e da Terra,27
-Câmpus Jataí,2020,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,19
 Câmpus Jataí,2020,0,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Preta,Evasão,1.0,Ciências Sociais Aplicadas,25
 Câmpus Jataí,2020,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,0.75,Desconhecida,Evasão,1.0,Ciências Exatas e da Terra,23
 Câmpus Jataí,2020,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,0.75,Desconhecida,Evasão,1.0,Ciências Exatas e da Terra,29
@@ -6100,7 +6092,6 @@ Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,M,1.25,Par
 Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,18
 Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,20
 Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,19
-Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,57
 Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,23
 Câmpus Jataí,2021,1,Licenciatura em Física,Licenciatura,Presencial,F,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,24
 Câmpus Jataí,2021,1,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,F,1.25,Branca,Concluído,2.0,Ciências Exatas e da Terra,28
@@ -6238,6 +6229,8 @@ Câmpus Jataí,2022,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial
 Câmpus Jataí,2022,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Parda,Evasão,1.0,Engenharias,23
 Câmpus Jataí,2022,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Engenharias,28
 Câmpus Jataí,2022,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Preta,Evasão,1.0,Engenharias,23
+Câmpus Jataí,2022,1,Doutorado Profissional em Educação para Ciências e Matemática,Doutorado,Presencial,F,2.75,Desconhecida,Matriculado,3.0,Ciências Exatas e da Terra,31
+Câmpus Jataí,2022,1,Doutorado Profissional em Educação para Ciências e Matemática,Doutorado,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,52
 Câmpus Jataí,2022,1,Doutorado Profissional em Educação para Ciências e Matemática,Doutorado,Presencial,F,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,48
 Câmpus Jataí,2022,1,Licenciatura em Física,Licenciatura,Presencial,M,1.25,Parda,Cancelado,1.0,Ciências Exatas e da Terra,25
 Câmpus Jataí,2022,1,Licenciatura em Física,Licenciatura,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,26
@@ -6327,11 +6320,11 @@ Câmpus Jataí,2022,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subse
 Câmpus Jataí,2022,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,0.75,Parda,Concludente,2.0,Ciências Exatas e da Terra,24
 Câmpus Jataí,2022,1,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,27
 Câmpus Jataí,2022,0,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,26
-Câmpus Jataí,2022,0,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas,Tecnólogo,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,27
 Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Exatas e da Terra,32
 Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,21
 Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,26
 Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,24
+Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,18
 Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,26
 Câmpus Jataí,2022,0,Técnico Subsequente ao Ensino Médio em Agrimensura,Subsequente,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,25
 Câmpus Jataí,2023,1,Bacharelado em Engenharia Civil,Bacharelado,Presencial,M,2.75,Branca,Matriculado,3.0,Engenharias,31
@@ -6508,6 +6501,7 @@ Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial
 Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,18
 Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,18
 Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,29
+Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Branca,Matriculado,3.0,Engenharias,29
 Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,18
 Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,18
 Câmpus Jataí,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,40
@@ -6532,6 +6526,7 @@ Câmpus Jataí,2024,1,Licenciatura em Física,Licenciatura,Presencial,M,2.0,Bran
 Câmpus Jataí,2024,1,Licenciatura em Física,Licenciatura,Presencial,M,0.75,Preta,Matriculado,3.0,Ciências Exatas e da Terra,22
 Câmpus Jataí,2024,1,Licenciatura em Física,Licenciatura,Presencial,M,2.75,Preta,Matriculado,3.0,Ciências Exatas e da Terra,21
 Câmpus Jataí,2024,1,Licenciatura em Física,Licenciatura,Presencial,M,2.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,26
+Câmpus Jataí,2024,1,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,51
 Câmpus Jataí,2024,1,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,47
 Câmpus Jataí,2024,1,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,27
 Câmpus Jataí,2024,1,Mestrado Profissional em Educação para Ciências e Matemática,Mestrado Profissional,Presencial,F,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,39
@@ -6587,9 +6582,11 @@ Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Inte
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Integrado,Presencial,M,2.75,Preta,Matriculado,3.0,Ciências Exatas e da Terra,16
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Integrado,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
+Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Integrado,Presencial,F,2.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Integrado,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica,Integrado,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,0.75,Preta,Matriculado,3.0,Ciências Exatas e da Terra,16
+Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,2.75,Desconhecida,Matriculado,3.0,Ciências Exatas e da Terra,14
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,16
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
@@ -6597,6 +6594,7 @@ Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Supo
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,0.75,Parda,Cancelado,1.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
+Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
@@ -6604,6 +6602,7 @@ Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Supo
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Exatas e da Terra,16
+Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,2.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,0.75,Branca,Matriculado,3.0,Ciências Exatas e da Terra,15
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Manutenção e Suporte em Informática,Integrado,Presencial,F,2.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,16
 Câmpus Jataí,2024,1,Técnico Integrado ao Ensino Médio em Secretariado na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,30
@@ -7445,7 +7444,6 @@ Câmpus Uruaçu,2019,1,Superior de Tecnologia em Análise e Desenvolvimento de S
 Câmpus Uruaçu,2019,1,Superior de Tecnologia em Análise e Desenvolvimento de Sistemas,Tecnólogo,Presencial,F,2.75,Preta,Cancelamento Compulsório,1.0,Ciências Exatas e da Terra,30
 Câmpus Uruaçu,2019,1,Técnico Integrado ao Ensino Médio em Comércio na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,24
 Câmpus Uruaçu,2019,1,Técnico Integrado ao Ensino Médio em Comércio na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,32
-Câmpus Uruaçu,2019,1,Técnico Integrado ao Ensino Médio em Comércio na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,57
 Câmpus Uruaçu,2019,1,Técnico Integrado ao Ensino Médio em Comércio na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,23
 Câmpus Uruaçu,2019,1,Técnico Integrado ao Ensino Médio em Comércio na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,33
 Câmpus Uruaçu,2019,1,Técnico Integrado ao Ensino Médio em Comércio na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,31
@@ -7729,7 +7727,6 @@ Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Es
 Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,M,1.25,Branca,Cancelado,1.0,Ciências Sociais Aplicadas,36
 Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,M,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,40
 Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,39
-Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,56
 Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,29
 Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,27
 Câmpus Uruaçu,2021,1,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,M,0.75,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,39
@@ -7858,6 +7855,7 @@ Câmpus Uruaçu,2022,1,Técnico Integrado ao Ensino Médio em Química,Integrado
 Câmpus Uruaçu,2022,1,Técnico Integrado ao Ensino Médio em Química,Integrado,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,16
 Câmpus Uruaçu,2022,0,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,23
 Câmpus Uruaçu,2022,0,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,31
+Câmpus Uruaçu,2022,0,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,2.0,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,31
 Câmpus Uruaçu,2022,0,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,2.0,Preta,Evasão,1.0,Ciências Sociais Aplicadas,41
 Câmpus Uruaçu,2022,0,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,29
 Câmpus Uruaçu,2022,0,"Especialização em Educação, Direitos e Cidadania",Especialização,Presencial,F,1.25,Branca,Evasão,1.0,Ciências Sociais Aplicadas,33
@@ -8066,7 +8064,6 @@ Câmpus Valparaíso,2019,1,Técnico Integrado ao Ensino Médio em Mecânica,Inte
 Câmpus Valparaíso,2019,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,M,1.25,Parda,Concluído,2.0,Engenharias,14
 Câmpus Valparaíso,2019,0,Licenciatura em Matemática,Licenciatura,Presencial,F,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,40
 Câmpus Valparaíso,2019,0,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Branca,Evasão,1.0,Ciências Exatas e da Terra,28
-Câmpus Valparaíso,2019,0,Licenciatura em Matemática,Licenciatura,Presencial,M,2.75,Parda,Evasão,1.0,Ciências Exatas e da Terra,42
 Câmpus Valparaíso,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,31
 Câmpus Valparaíso,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Preta,Matriculado,3.0,Engenharias,27
 Câmpus Valparaíso,2020,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,F,1.25,Branca,Evasão,1.0,Engenharias,18
@@ -8234,7 +8231,6 @@ Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,M
 Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,F,1.25,Parda,Evasão,1.0,Ciências Exatas e da Terra,19
 Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Preta,Evasão,1.0,Ciências Exatas e da Terra,22
 Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,33
-Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,M,2.0,Branca,Evasão,1.0,Ciências Exatas e da Terra,57
 Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,F,0.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,25
 Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,F,2.75,Branca,Evasão,1.0,Ciências Exatas e da Terra,27
 Câmpus Valparaíso,2021,1,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Amarela,Evasão,1.0,Ciências Exatas e da Terra,37
@@ -8317,9 +8313,10 @@ Câmpus Valparaíso,2022,1,Técnico Integrado ao Ensino Médio em Eletrotécnica
 Câmpus Valparaíso,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Evasão,1.0,Engenharias,41
 Câmpus Valparaíso,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Cancelado,1.0,Engenharias,22
 Câmpus Valparaíso,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Cancelamento Compulsório,1.0,Engenharias,40
-Câmpus Valparaíso,2022,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Trancado,1.0,Engenharias,49
 Câmpus Valparaíso,2022,0,Especialização em Ensino na Educação Básica,Especialização,Presencial,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,41
 Câmpus Valparaíso,2022,0,Especialização em Ensino na Educação Básica,Especialização,Presencial,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,25
+Câmpus Valparaíso,2022,0,Especialização em Ensino na Educação Básica,Especialização,Presencial,F,2.0,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,31
+Câmpus Valparaíso,2022,0,Licenciatura em Matemática,Licenciatura,Presencial,M,0.75,Desconhecida,Evasão,1.0,Ciências Exatas e da Terra,47
 Câmpus Valparaíso,2023,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,48
 Câmpus Valparaíso,2023,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Desconhecida,Matriculado,3.0,Engenharias,49
 Câmpus Valparaíso,2023,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Preta,Matriculado,3.0,Engenharias,47
@@ -8386,6 +8383,7 @@ Câmpus Valparaíso,2023,1,Técnico Integrado ao Ensino Médio em Eletrotécnica
 Câmpus Valparaíso,2023,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Branca,Evasão,1.0,Engenharias,30
 Câmpus Valparaíso,2023,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,46
 Câmpus Valparaíso,2023,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,F,1.25,Preta,Matriculado,3.0,Engenharias,16
+Câmpus Valparaíso,2023,0,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,31
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,0.75,Desconhecida,Matriculado,3.0,Engenharias,43
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Preta,Matriculado,3.0,Engenharias,22
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Branca,Matriculado,3.0,Engenharias,22
@@ -8402,6 +8400,7 @@ Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Prese
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,19
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,39
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Evasão,1.0,Engenharias,38
+Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.75,Parda,Matriculado,3.0,Engenharias,30
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,1.25,Parda,Matriculado,3.0,Engenharias,41
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,35
 Câmpus Valparaíso,2024,1,Bacharelado em Engenharia Elétrica,Bacharelado,Presencial,M,2.0,Preta,Matriculado,3.0,Engenharias,41
@@ -8418,6 +8417,7 @@ Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,F
 Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Preta,Matriculado,3.0,Ciências Exatas e da Terra,19
 Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,2.0,Desconhecida,Matriculado,3.0,Ciências Exatas e da Terra,20
 Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Exatas e da Terra,42
+Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,2.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,30
 Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,1.25,Preta,Matriculado,3.0,Ciências Exatas e da Terra,21
 Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Exatas e da Terra,21
 Câmpus Valparaíso,2024,1,Licenciatura em Matemática,Licenciatura,Presencial,M,0.75,Parda,Matriculado,3.0,Ciências Exatas e da Terra,20
@@ -8451,6 +8451,7 @@ Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação In
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,M,0.75,Preta,Matriculado,3.0,Engenharias,15
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,M,1.25,Branca,Matriculado,3.0,Engenharias,15
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,F,2.0,Branca,Matriculado,3.0,Engenharias,16
+Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,M,2.75,Branca,Matriculado,3.0,Engenharias,15
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,M,2.0,Preta,Matriculado,3.0,Engenharias,16
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,16
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Automação Industrial,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,16
@@ -8467,8 +8468,10 @@ Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,44
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Branca,Matriculado,3.0,Engenharias,42
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,2.75,Parda,Matriculado,3.0,Engenharias,22
+Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,48
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,1.25,Preta,Matriculado,3.0,Engenharias,21
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,30
+Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,F,0.75,Parda,Matriculado,3.0,Engenharias,48
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Branca,Matriculado,3.0,Engenharias,40
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,0.75,Parda,Matriculado,3.0,Engenharias,24
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Eletrotécnica na Modalidade de Educação de Jovens e Adultos,Integrado - EJA,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,39
@@ -8498,6 +8501,7 @@ Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Inte
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,16
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,M,2.0,Parda,Matriculado,3.0,Engenharias,16
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,F,2.0,Branca,Matriculado,3.0,Engenharias,15
+Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,M,2.75,Parda,Matriculado,3.0,Engenharias,15
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,16
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,F,1.25,Parda,Matriculado,3.0,Engenharias,16
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,F,2.0,Branca,Matriculado,3.0,Engenharias,15
@@ -8506,7 +8510,6 @@ Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Inte
 Câmpus Valparaíso,2024,1,Técnico Integrado ao Ensino Médio em Mecânica,Integrado,Presencial,M,2.0,Desconhecida,Matriculado,3.0,Engenharias,16
 Câmpus Virtual de Ead,2018,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Preta,Concluído,2.0,Ciências Humanas,50
 Câmpus Virtual de Ead,2018,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,25
-Câmpus Virtual de Ead,2018,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.75,Desconhecida,Cancelamento Compulsório,1.0,Ciências Humanas,37
 Câmpus Virtual de Ead,2018,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Desconhecida,Concluído,2.0,Ciências Humanas,45
 Câmpus Virtual de Ead,2018,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Desconhecida,Concluído,2.0,Ciências Humanas,33
 Câmpus Virtual de Ead,2018,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,0.75,Desconhecida,Concluído,2.0,Ciências Humanas,39
@@ -8589,7 +8592,6 @@ Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestr
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,51
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,45
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,41
-Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,63
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Amarela,Cancelamento Compulsório,1.0,Ciências Humanas,38
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,40
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,37
@@ -8599,7 +8601,6 @@ Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestr
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,41
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,41
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,37
-Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.75,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,48
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,35
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,46
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,30
@@ -8607,17 +8608,16 @@ Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestr
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,43
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,45
 Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,32
-Câmpus Virtual de Ead,2020,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,58
-Câmpus Virtual de Ead,2021,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,2.75,Preta,Cancelamento Compulsório,1.0,Ciências Humanas,31
 Câmpus Virtual de Ead,2021,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,38
 Câmpus Virtual de Ead,2022,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,0.75,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,45
 Câmpus Virtual de Ead,2022,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,M,1.25,Branca,Matriculado,3.0,Ciências Humanas,30
 Câmpus Virtual de Ead,2022,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,0.75,Preta,Cancelamento Compulsório,1.0,Ciências Humanas,36
 Câmpus Virtual de Ead,2022,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,43
 Câmpus Virtual de Ead,2022,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Desconhecida,Cancelamento Compulsório,1.0,Ciências Humanas,45
+Câmpus Virtual de Ead,2022,0,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,2.0,Branca,Matriculado,3.0,Ciências Humanas,28
 Câmpus Virtual de Ead,2022,0,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Humanas,43
 Câmpus Virtual de Ead,2022,0,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,M,1.25,Desconhecida,Cancelamento Compulsório,1.0,Ciências Humanas,27
-Câmpus Virtual de Ead,2022,0,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Desconhecida,Cancelamento Compulsório,1.0,Ciências Humanas,45
+Câmpus Virtual de Ead,2022,0,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,M,2.0,Parda,Matriculado,3.0,Ciências Humanas,31
 Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Humanas,27
 Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Humanas,48
 Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,0.75,Amarela,Cancelamento Compulsório,1.0,Ciências Humanas,30
@@ -8626,12 +8626,14 @@ Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mes
 Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,0.75,Parda,Matriculado,3.0,Ciências Humanas,43
 Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,37
 Câmpus Virtual de Ead,2023,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,0.75,Parda,Cancelamento Compulsório,1.0,Ciências Humanas,46
+Câmpus Virtual de Ead,2023,0,Alunos Especiais - Mestrado - Câmpus Goiânia,Mestrado Profissional,Presencial,F,1.25,Parda,Matriculado,3.0,Ciências Humanas,31
 Câmpus Virtual de Ead,2024,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Humanas,39
 Câmpus Virtual de Ead,2024,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,2.0,Branca,Matriculado,3.0,Ciências Humanas,40
 Câmpus Virtual de Ead,2024,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,2.0,Desconhecida,Matriculado,3.0,Ciências Humanas,32
 Câmpus Virtual de Ead,2024,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,1.25,Branca,Matriculado,3.0,Ciências Humanas,42
 Câmpus Virtual de Ead,2024,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,F,2.0,Desconhecida,Matriculado,3.0,Ciências Humanas,38
 Câmpus Virtual de Ead,2024,1,Alunos Especiais - Mestrado - Câmpus Jataí,Mestrado Profissional,Presencial,M,1.25,Parda,Matriculado,3.0,Ciências Humanas,50
+Polo Anápolis,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,33
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,42
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,2.0,Preta,Concluído,2.0,Ciências Sociais Aplicadas,39
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,39
@@ -8642,10 +8644,10 @@ Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação 
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,42
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,33
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,34
+Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,31
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,0.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,35
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,38
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,32
-Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,45
 Polo Anápolis,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,31
 Polo Anápolis,2023,1,Especialização em Alfabetização e Letramento na modalidade de Educação a Distância,Especialização,À Distância,F,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,41
 Polo Aparecida de Goiânia,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,1.25,Preta,Concluído,2.0,Ciências Sociais Aplicadas,33
@@ -8730,6 +8732,7 @@ Polo Formosa,2020,0,Especialização em Docência para a Educação Profissional
 Polo Formosa,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,25
 Polo Formosa,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,0.75,Branca,Evasão,1.0,Ciências Sociais Aplicadas,38
 Polo Formosa,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,1.25,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,30
+Polo Formosa,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,27
 Polo Formosa,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Branca,Concluído,2.0,Ciências Sociais Aplicadas,38
 Polo Formosa,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,31
 Polo Formosa,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,1.25,Branca,Concluído,2.0,Ciências Sociais Aplicadas,34
@@ -8750,8 +8753,8 @@ Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especializaç
 Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,F,2.0,Amarela,Concluído,2.0,Ciências Sociais Aplicadas,40
 Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,F,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,33
 Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,43
-Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,2.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,33
 Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,37
+Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,49
 Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,F,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,25
 Polo Formosa,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,0.75,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,30
 Polo Goiânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,39
@@ -8768,10 +8771,8 @@ Polo Goiânia Oeste,2018,0,"Especialização em Docência na Educação Profissi
 Polo Goiânia Oeste,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.75,Desconhecida,Evasão,1.0,Ciências Sociais Aplicadas,23
 Polo Goiânia Oeste,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,26
 Polo Goiânia Oeste,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,26
-Polo Goiânia Oeste,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,49
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,29
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,24
-Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,37
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Branca,Formado,2.0,Ciências Sociais Aplicadas,39
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,50
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Desconhecida,Evasão,1.0,Ciências Sociais Aplicadas,34
@@ -8801,7 +8802,6 @@ Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,1.25,Preta,Evasão,1.0,Ciências Sociais Aplicadas,31
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Preta,Formado,2.0,Ciências Sociais Aplicadas,27
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,35
-Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,45
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,1.25,Parda,Formado,2.0,Ciências Sociais Aplicadas,32
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Parda,Formado,2.0,Ciências Sociais Aplicadas,44
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,35
@@ -8812,7 +8812,6 @@ Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Branca,Formado,2.0,Ciências Sociais Aplicadas,45
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,33
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,36
-Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Branca,Formado,2.0,Ciências Sociais Aplicadas,47
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,1.25,Desconhecida,Formado,2.0,Ciências Sociais Aplicadas,36
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,1.25,Branca,Evasão,1.0,Ciências Sociais Aplicadas,36
 Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Parda,Formado,2.0,Ciências Sociais Aplicadas,33
@@ -8827,7 +8826,6 @@ Polo Goiânia Oeste,2018,0,Licenciatura em Formação Pedagógica para Graduados
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,45
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Branca,Concluído,2.0,Ciências Sociais Aplicadas,28
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,45
-Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,49
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,43
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,35
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,25
@@ -8892,11 +8890,16 @@ Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profi
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,38
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,38
 Polo Goiânia Oeste,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,39
-Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,0.75,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,29
+Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,33
 Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Branca,Concluído,2.0,Ciências Sociais Aplicadas,28
+Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,26
+Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Branca,Matriculado,3.0,Ciências Sociais Aplicadas,35
+Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,1.25,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,34
 Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,1.25,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,27
+Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Preta,Matriculado,3.0,Ciências Sociais Aplicadas,27
 Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Desconhecida,Matriculado,3.0,Ciências Sociais Aplicadas,31
 Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,30
+Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,26
 Polo Goiânia Oeste,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,26
 Polo Goiânia Oeste,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,34
 Polo Goiânia Oeste,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,M,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,26
@@ -8921,10 +8924,8 @@ Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, T
 Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.0,Branca,Cancelamento Compulsório,1.0,Ciências Sociais Aplicadas,30
 Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,28
 Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,27
-Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,24
 Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,31
 Polo Inhumas,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,32
-Polo Inhumas,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.75,Branca,Formado,2.0,Ciências Sociais Aplicadas,23
 Polo Inhumas,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.75,Parda,Formado,2.0,Ciências Sociais Aplicadas,29
 Polo Inhumas,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,35
 Polo Inhumas,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Branca,Formado,2.0,Ciências Sociais Aplicadas,39
@@ -8963,7 +8964,6 @@ Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Té
 Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,1.25,Branca,Evasão,1.0,Ciências Sociais Aplicadas,27
 Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,0.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,38
 Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,1.25,Parda,Concluído,2.0,Ciências Sociais Aplicadas,23
-Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,0.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,48
 Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,F,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,29
 Polo Jatai,2018,0,"Especialização em Docência na Educação Profissional, Técnica e Tecnológica",Especialização,À Distância,M,2.0,Branca,Concluído,2.0,Ciências Sociais Aplicadas,28
 Polo Jatai,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Branca,Formado,2.0,Ciências Sociais Aplicadas,31
@@ -9019,7 +9019,9 @@ Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e
 Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,23
 Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,22
 Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,35
+Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,34
 Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,28
+Polo Jatai,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.75,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,35
 Polo Jatai,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Branca,Evasão,1.0,Ciências Sociais Aplicadas,31
 Polo Jatai,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,25
 Polo Jatai,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Desconhecida,Evasão,1.0,Ciências Sociais Aplicadas,32
@@ -9065,7 +9067,6 @@ Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Parda,Formado,2.0,Ciências Sociais Aplicadas,34
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Desconhecida,Evasão,1.0,Ciências Sociais Aplicadas,38
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,1.25,Parda,Formado,2.0,Ciências Sociais Aplicadas,36
-Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.75,Branca,Formado,2.0,Ciências Sociais Aplicadas,38
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Preta,Formado,2.0,Ciências Sociais Aplicadas,35
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Parda,Evasão,1.0,Ciências Sociais Aplicadas,27
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,2.0,Parda,Formado,2.0,Ciências Sociais Aplicadas,45
@@ -9095,7 +9096,7 @@ Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.0,Parda,Concludente,2.0,Ciências Sociais Aplicadas,44
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,43
 Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,0.75,Branca,Formado,2.0,Ciências Sociais Aplicadas,39
-Polo Luziânia,2018,0,Licenciatura em Formação Pedagógica para Graduados não Licenciados,Licenciatura,À Distância,F,2.75,Preta,Evasão,1.0,Ciências Sociais Aplicadas,36
+Polo Luziânia,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.75,Branca,Concluído,2.0,Ciências Sociais Aplicadas,37
 Polo Luziânia,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,1.25,Parda,Concluído,2.0,Ciências Sociais Aplicadas,27
 Polo Luziânia,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Desconhecida,Concluído,2.0,Ciências Sociais Aplicadas,29
 Polo Luziânia,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,0.75,Preta,Concluído,2.0,Ciências Sociais Aplicadas,38
@@ -9142,7 +9143,6 @@ Polo Luziânia,2023,1,Especialização em Educação Física Escolar,Especializa
 Polo Luziânia,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,1.25,Parda,Concluído,2.0,Ciências Sociais Aplicadas,41
 Polo Luziânia,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,1.25,Parda,Evasão,1.0,Ciências Sociais Aplicadas,46
 Polo Luziânia,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,F,1.25,Branca,Concluído,2.0,Ciências Sociais Aplicadas,46
-Polo Mineiros,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,F,2.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,34
 Polo Mineiros,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,F,0.75,Amarela,Evasão,1.0,Ciências Sociais Aplicadas,43
 Polo Mineiros,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,36
 Polo Mineiros,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,0.75,Parda,Evasão,1.0,Ciências Sociais Aplicadas,39
@@ -9161,6 +9161,7 @@ Polo Santo Antônio do Descoberto,2023,1,Especialização em Alfabetização e L
 Polo Senador Canedo,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,F,2.0,Preta,Concluído,2.0,Ciências Sociais Aplicadas,29
 Polo Senador Canedo,2020,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,27
 Polo Senador Canedo,2023,1,Especialização em Educação Física Escolar,Especialização,À Distância,M,0.75,Parda,Concluído,2.0,Ciências Sociais Aplicadas,30
+Polo Uruana,2022,0,Especialização em Docência para a Educação Profissional e Tecnológica,Especialização,À Distância,M,2.0,Parda,Matriculado,3.0,Ciências Sociais Aplicadas,26
 Polo Uruana,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,1.25,Branca,Concluído,2.0,Ciências Sociais Aplicadas,31
 Polo Uruana,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,2.0,Parda,Concluído,2.0,Ciências Sociais Aplicadas,26
 Polo Uruana,2022,0,Especialização em Tecnologias Educacionais e Educação a Distância,Especialização,À Distância,F,1.25,Branca,Evasão,1.0,Ciências Sociais Aplicadas,34
